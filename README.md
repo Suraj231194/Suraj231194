@@ -9,25 +9,21 @@
 
 
 
-- 🔭 I’m currently working on **My Skills 😄**
+- 🔭 Currently building and maintaining **production-ready MERN applications**
+- 🌱 Actively deepening expertise in system design, performance optimization, and scalable backend architecture
+- 👨‍💻 All of my projects are available at [Portfolio](https://suraj231194.github.io/) and [Resume](https://drive.google.com/file/d/1OUDoKxYgeVULwPOWSEWrMH63JOzZcoZ6/view)
+- 💬 Ask me about **React, Node.js, REST APIs, Authentication, and Application Architecture**
 
-- 🌱 I’m currently learning **MERN Stack**
-
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://suraj231194.github.io/) and [Resume](https://drive.google.com/file/d/1OUDoKxYgeVULwPOWSEWrMH63JOzZcoZ6/view?usp=drive_link)
-
-- 💬 Ask me about **React,Node**
 
 - 📫 How to reach me **surajpawar913@gmail.com**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/suraj-pawar-42b773215/)
-[![CodeSandBox Badge](https://img.shields.io/badge/CodeSandBox-Profile-black)]([https://codesandbox.io/dashboard/drafts?workspace=01ce0933-d23a-4c86-9788-87c34448c680](https://codesandbox.io/u/suraj231194))
+[![CodeSandBox Badge](https://img.shields.io/badge/CodeSandbox-Profile-black)](https://codesandbox.io/u/suraj231194)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suraj-pawar-42b773215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-pawar-42b773215/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/suraj231194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="suraj231194" height="30" width="40" /></a>
-<a href="https://fb.com/suraj santosh pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suraj santosh pawar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
