@@ -105,10 +105,13 @@
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraj231194&show_icons=true)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraj231194)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj231194&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=suraj231194)
+
 
 
