@@ -105,10 +105,29 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj231194&show_icons=true&locale=en&layout=compact" alt="suraj231194" /></p>
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj231194&layout=compact"
+    alt="suraj231194"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj231194&show_icons=true&locale=en" alt="suraj231194" /></p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=suraj231194&show_icons=true"
+    alt="suraj231194"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj231194&" alt="suraj231194" /></p>
+<p>
+  <img
+    align="center"
+    src="https://streak-stats.demolab.com/?user=suraj231194"
+    alt="suraj231194"
+  />
+</p>
+
 
 
